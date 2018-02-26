@@ -1,0 +1,18 @@
+.folders-block {
+    border: 1px solid black !important;
+}
+.app-container {
+    height: 400px;
+}
+.files-block {
+    border: 1px solid black !important;
+}
+.element {
+    padding: 5px;
+}
+.folder {
+    background: orange;
+    margin: 2px;
+    width: 60px;
+    cursor: pointer;
+}
